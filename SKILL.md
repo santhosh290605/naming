@@ -159,6 +159,7 @@ This is the first time the user sees any name candidates. Present top 3-5 candid
 - Why it works (which principles it satisfies)
 - **Availability status** (which platforms are confirmed available, which need workarounds)
 - Any risks or trade-offs
+- Tagline suggestions (see [taglines.md](taglines.md) for guidance)
 
 Recommend the user sit with finalists for 24 hours before deciding.
 
@@ -189,6 +190,7 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 | [evaluation.md](evaluation.md) | When scoring and comparing finalists |
 | [languages/INDEX.md](languages/INDEX.md) | When naming for a non-English audience — see index for available languages |
 | [industries/INDEX.md](industries/INDEX.md) | When naming for a specific industry — see index for available guides |
+| [taglines.md](taglines.md) | When crafting taglines for finalists |
 
 ## Key Rules
 
